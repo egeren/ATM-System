@@ -1,0 +1,51 @@
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\bin\Debug\atm.exe.config
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\bin\Debug\atm.exe
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\bin\Debug\atm.pdb
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.csprojAssemblyReference.cache
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.Properties.Resources.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.csproj.GenerateResource.cache
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.csproj.CoreCompileInputs.cache
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.exe
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.pdb
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.girisForm.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.kayitForm.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.islemler.resources
+C:\Users\Berk\Desktop\atm\atm\bin\Debug\atm.exe.config
+C:\Users\Berk\Desktop\atm\atm\bin\Debug\atm.exe
+C:\Users\Berk\Desktop\atm\atm\bin\Debug\atm.pdb
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.csprojAssemblyReference.cache
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.girisForm.resources
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.islemler.resources
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.kayitForm.resources
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.Properties.Resources.resources
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.csproj.GenerateResource.cache
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.exe
+C:\Users\Berk\Desktop\atm\atm\obj\Debug\atm.pdb
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\bin\Debug\atm.exe.config
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\bin\Debug\atm.exe
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\bin\Debug\atm.pdb
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.csprojAssemblyReference.cache
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.girisForm.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.islemler.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.kayitForm.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.Properties.Resources.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.csproj.GenerateResource.cache
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.exe
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.pdb
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.paraCekme.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.borcOdeme.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.limitTanimlama.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.bakiyeSorgulama.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.sifreDegistirme.resources
+C:\Users\Berk\Desktop\YU\YU\2.SINIF 1.DÖNEM\Görselprogramlama2\atm\atm\obj\Debug\atm.paraYatir.resources
+C:\Users\Balkabağı Dükü\Desktop\atm\atm\obj\Debug\atm.csprojAssemblyReference.cache
+C:\Users\Balkabağı Dükü\Desktop\atm\atm\obj\Debug\atm.exe
+C:\Users\Balkabağı Dükü\Desktop\atm\atm\obj\Debug\atm.pdb
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.bakiyeSorgulama.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.borcOdeme.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.limitTanimlama.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.paraCekme.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.paraYatir.resources
+C:\Users\Balkabağı Dükü\source\repos\atm\atm\obj\Debug\atm.sifreDegistirme.resources
